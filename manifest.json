@@ -4,13 +4,13 @@
     "description": "Make things a little darker",
     "version": "0.0.1",
     "icons": {
-        "16": "reference/goes/here",
-        "128": "same/reference/here"
+        "16": "Images/light_switch.png",
+        "128": "Images/light_switch.png"
     },
     "action": {
         "browser_style": true,
         "default_icon": {
-            "16": "reference/goes/here"
+            "16": "Images/light_switch.png"
         },
         "default_title": "DimmerSwitch",
         "default_popup": "popup.html"
